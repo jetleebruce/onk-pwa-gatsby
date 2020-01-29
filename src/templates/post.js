@@ -1,6 +1,4 @@
 import React, { Component } from "react"
-import PropTypes from "prop-types"
-import Img from "gatsby-image"
 import Layout from "../components/layout"
 
 class PostTemplate extends Component {
